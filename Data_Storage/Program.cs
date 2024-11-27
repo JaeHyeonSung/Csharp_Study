@@ -6,6 +6,7 @@ namespace Data_Storage
 {
     internal class Program
     {
+        enum DialogResult { YES, NO, CANCEL, CONFIRM, OK }
         static void Main(string[] args)
         {
             sbyte a = -10;
@@ -57,6 +58,69 @@ namespace Data_Storage
 
             decimal dcm1 = 3.1415_9265_3589_7932_3846m;
             Console.WriteLine(dcm1);                    // 3.14159265358979323846
+
+
+
+            // data format converting
+
+            int dfc_a = 123;
+            string dfc_s = dfc_a.ToString();
+            Console.WriteLine(dfc_s);                   // "123"  
+
+            float dfc_f = 3.14f;
+            string dfc_s1= dfc_f.ToString();            
+            Console.WriteLine(dfc_s1);                  // "3.14"
+
+            string dfc_s2 = "123456";
+            int dfc_a1=Convert.ToInt32(dfc_s2);         
+            Console.WriteLine(dfc_a1);                  // 123456
+
+            string dfc_s3 = "1.234";
+            float dfc_f1=float.Parse(dfc_s3);
+            Console.WriteLine(dfc_f1);                  // 1.2345
+
+            // Enum formatting
+            // enum DialogResult { YES, NO, CANCEL, CONFIRM, OK }
+
+            DialogResult result = DialogResult.OK;
+
+            Console.WriteLine(result == DialogResult.YES);
+            Console.WriteLine(result == DialogResult.OK);
+            Console.WriteLine(result == DialogResult.CONFIRM);
+            Console.WriteLine(result == DialogResult.NO);
+            Console.WriteLine(result == DialogResult.CANCEL);
+
+            string teststring = "       Have  a  good     night";
+
+            string[] testresult = teststring.Split(new string[] {" "}, StringSplitOptions.RemoveEmptyEntries);
+
+            foreach(var item in testresult)
+            {
+                Console.WriteLine(item);
+            }
+
+
+            // String Format
+
+            // 1
+            Console.WriteLine("{0}, {1}", "12", "444");
+
+            //2
+            Console.WriteLine($"test : {"test"}");
+
+
+
+
+            // 
+            Console.WriteLine("너비 입력 :");
+            string width_input = Console.ReadLine();
+
+            Console.WriteLine("높이 입력 :");
+            string height_input = Console.ReadLine();
+
+            var AreaResult=RectArea.GetRectArea(Int32.Parse(width_input), Int32.Parse(height_input));
+
+            Console.WriteLine($"사각형 넓이 : {AreaResult}");
         }
     }
 }

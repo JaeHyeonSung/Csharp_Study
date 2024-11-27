@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{00D6A933-18FB-4F60-B725-B09A8650BDF4}|Data_Storage.csproj|c:\\users\\user\\desktop\\csharp\\csharp_study_git\\data_storage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00D6A933-18FB-4F60-B725-B09A8650BDF4}|Data_Storage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D6A933-18FB-4F60-B725-B09A8650BDF4}|Data_Storage.csproj|c:\\users\\user\\desktop\\csharp\\csharp_study_git\\data_storage\\rectarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D6A933-18FB-4F60-B725-B09A8650BDF4}|Data_Storage.csproj|solutionrelative:rectarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RectArea.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Csharp\\Csharp_Study_Git\\Data_Storage\\RectArea.cs",
+              "RelativeDocumentMoniker": "RectArea.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Csharp\\Csharp_Study_Git\\Data_Storage\\RectArea.cs",
+              "RelativeToolTip": "RectArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:24:00.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\Csharp\\Csharp_Study_Git\\Data_Storage\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwHYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T00:23:15.039Z",
               "EditorCaption": ""
