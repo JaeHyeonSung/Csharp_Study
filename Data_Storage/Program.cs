@@ -27,10 +27,36 @@ namespace Data_Storage
             ulong h = 200_0000_0000_0000_0000;
             Console.WriteLine($"g={g}, h={h}");
 
+            // signed, unsigned
+
+            byte by1 = 255;
+            sbyte sby1 = (sbyte)by1;
+            Console.WriteLine(by1);                     // 255
+            Console.WriteLine(sby1);                    // -1
 
 
 
+            //Over, Underflow
 
+            int num1 = int.MaxValue;
+
+            Console.WriteLine($"num1 = {num1}");
+
+            num1++;
+
+            Console.WriteLine($"num1 = {num1}");
+
+            // float , double, decimal
+
+
+            float f1 = 3.1415_9265_3589_7932_3846f;
+            Console.WriteLine(f1);                      // 3.1415927
+
+            double b1 = 3.1415_9265_3589_7932_3846;
+            Console.WriteLine(b1);                      // 3.141592653589793
+
+            decimal dcm1 = 3.1415_9265_3589_7932_3846m;
+            Console.WriteLine(dcm1);                    // 3.14159265358979323846
         }
     }
 }
