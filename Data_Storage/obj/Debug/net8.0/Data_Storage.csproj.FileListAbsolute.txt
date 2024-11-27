@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\bin\Debug\net8.0\Data_Storage.exe
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\bin\Debug\net8.0\Data_Storage.deps.json
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\bin\Debug\net8.0\Data_Storage.runtimeconfig.json
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\bin\Debug\net8.0\Data_Storage.dll
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\bin\Debug\net8.0\Data_Storage.pdb
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\obj\Debug\net8.0\Data_Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\obj\Debug\net8.0\Data_Storage.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\obj\Debug\net8.0\Data_Storage.AssemblyInfo.cs
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\obj\Debug\net8.0\Data_Storage.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\obj\Debug\net8.0\Data_Storage.sourcelink.json
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\obj\Debug\net8.0\Data_Storage.dll
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\obj\Debug\net8.0\refint\Data_Storage.dll
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\obj\Debug\net8.0\Data_Storage.pdb
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\obj\Debug\net8.0\Data_Storage.genruntimeconfig.cache
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Data_Storage\obj\Debug\net8.0\ref\Data_Storage.dll
