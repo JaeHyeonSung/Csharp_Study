@@ -68,27 +68,16 @@ namespace CodeFlow
             {
                 Console.WriteLine("0이하의 수는 사용할 수 없습니다.");
             }
-            static long GetNumber(long index)
-            {
 
-                long result = index switch
-                {
-                    0 => 0,
-                    1 => 1,
-                    _ => GetNumber(index - 1) + GetNumber(index - 2)
 
-                };
-                return result;
-            }
-            string input_index = Console.ReadLine();
-            long index_test= long.Parse(input_index);
 
-            GetNumber(index_test);
+
 
             // Prac Test 05
-            
-            
-            
+
+            string input_index = Console.ReadLine();
+            long index_test = long.Parse(input_index);
+            Console.WriteLine(Fibonacci.GetNumber(index_test)); 
             
            
 
