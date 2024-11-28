@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\bin\Debug\net8.0\CodeFlow.exe
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\bin\Debug\net8.0\CodeFlow.deps.json
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\bin\Debug\net8.0\CodeFlow.runtimeconfig.json
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\bin\Debug\net8.0\CodeFlow.dll
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\bin\Debug\net8.0\CodeFlow.pdb
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\obj\Debug\net8.0\CodeFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\obj\Debug\net8.0\CodeFlow.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\obj\Debug\net8.0\CodeFlow.AssemblyInfo.cs
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\obj\Debug\net8.0\CodeFlow.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\obj\Debug\net8.0\CodeFlow.sourcelink.json
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\obj\Debug\net8.0\CodeFlow.dll
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\obj\Debug\net8.0\refint\CodeFlow.dll
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\obj\Debug\net8.0\CodeFlow.pdb
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\obj\Debug\net8.0\CodeFlow.genruntimeconfig.cache
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\CodeFlow\obj\Debug\net8.0\ref\CodeFlow.dll
