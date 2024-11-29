@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\bin\Debug\net8.0\Operator.exe
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\bin\Debug\net8.0\Operator.deps.json
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\bin\Debug\net8.0\Operator.runtimeconfig.json
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\bin\Debug\net8.0\Operator.dll
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\bin\Debug\net8.0\Operator.pdb
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\obj\Debug\net8.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\obj\Debug\net8.0\Operator.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\obj\Debug\net8.0\Operator.AssemblyInfo.cs
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\obj\Debug\net8.0\Operator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\obj\Debug\net8.0\Operator.sourcelink.json
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\obj\Debug\net8.0\Operator.dll
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\obj\Debug\net8.0\refint\Operator.dll
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\obj\Debug\net8.0\Operator.pdb
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\obj\Debug\net8.0\Operator.genruntimeconfig.cache
+C:\Users\USER\Desktop\Csharp\Csharp_Study_Git\Operator\obj\Debug\net8.0\ref\Operator.dll
